@@ -13,7 +13,7 @@ On April 1 2023, Canada implemented the [Standard on the Disclosure of Greenhous
 The UK published their [Greening government: ICT and digital services strategy 2020-2025](https://www.gov.uk/government/publications/greening-government-ict-and-digital-services-strategy-2020-2025/greening-government-ict-and-digital-services-strategy-2020-2025#sustainable-ict-and-digital-services-strategy-targets-for-2020-2025-policy-paper) in 2020.
 
 ### Tracking your digital carbon footprint
-- important to set a baseline and track regularly to ensure targets are being met and to identify areas for improvement
+Important to set a baseline and track regularly to ensure targets are being met and to identify areas for improvement
 #### UK
 The UK produces an annual report on greening government ICT. The [2021-22 report]https://www.gov.uk/government/publications/greening-government-ict-annual-report-2021-to-2022) is available online.
 
