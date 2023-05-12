@@ -5,6 +5,9 @@ The purpose of this repo is to share the combined knowledge of the Digital Natio
 
 The information on this repository will be especially useful to policy makers within governments and can serve as a reference guide.
 
+## License
+Unless otherwise noted, the source code of this project is distributed under the MIT License.
+
 ## How to Contribute
 Use Issues to post comments and discuss changes you'd like to make.
 
