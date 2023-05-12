@@ -10,3 +10,5 @@
 
 ## Policy measures
 -  Consider reducing phone distribution to only those user profiles who require them - e.g. Executives, field workers, etc.
+
+## What other governments and organizations are doing?
