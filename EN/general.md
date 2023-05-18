@@ -17,3 +17,6 @@ Important to set a baseline and track regularly to ensure targets are being met 
 #### UK
 The UK produces an annual report on greening government ICT. The [2021-22 report]https://www.gov.uk/government/publications/greening-government-ict-annual-report-2021-to-2022) is available online.
 
+## E-waste
+### Resources
+* https://www.sciencedirect.com/science/article/abs/pii/S0304389423001474
