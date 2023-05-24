@@ -10,6 +10,7 @@ But, if the energy mix in your area is already all or mostly renewable, the emis
 - Cloud companies using renewable energy they are generating themselves
 - waste heat reuse
 - water use
+
 Many of the major Cloud companies provide emissions information to customers:
 - Google provides their Scope 1, 2 and 3 emissions
 - Microsoft provides their scope 1, 2 and 3 emissions
