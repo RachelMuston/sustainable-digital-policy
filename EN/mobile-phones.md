@@ -1,7 +1,7 @@
 # Mobile phones
 ## Sustainability Considerations
 - manufacturing ghgs are high
-- lifecycles are often low due to planned obsolescence
+- lifecycles are often short due to planned obsolescence and phone contracts that provide new phones every 2 years
 - often non-repairable
 - many organizations are using software like MS Teams, Zoom or Google hangouts for conversations rather than phones
 - chargers are often not interchangeable
