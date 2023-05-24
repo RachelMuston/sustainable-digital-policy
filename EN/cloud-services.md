@@ -1,7 +1,7 @@
 # Cloud services
 ## Sustainability Considerations
 Moving to cloud can generate sustainability savings but there are caveats:
-- generally cloud services run at better efficiency rates than on-premise data centres and so this can mean that: less IT equipment could be required and also less energy will be required to run the equipment.
+- generally cloud services run at better efficiency rates than on-premise data centres. This can mean that less IT equipment could be required and also less energy will be required to run the equipment.
 However, it is important to consider the energy mix for the grid in your area when estimating the emissions savings from these efficiencies. 
 Large savings can be generated here if the energy mix in your area is high carbon.
 But, if the energy mix in your area is already all or mostly renewable, the emissions savings from the reduced energy requirements will be negligible.
