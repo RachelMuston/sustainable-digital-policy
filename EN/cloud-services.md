@@ -6,12 +6,18 @@ However, it is important to consider the energy mix for the grid in your area wh
 Large savings can be generated here if the energy mix in your area is high carbon.
 But, if the energy mix in your area is already all or mostly renewable, the emissions savings from the reduced energy requirements will be negligible.
 - in order to know if moving to Cloud services will generate sustainability savings, you need to know the current energy use, waste and emissions for that workload. 
-- emissions from cloud services are indirect and are reported under scope 3. If you are not reporting scope 3 emissions, moving 
+- emissions from purchased cloud services are indirect and are reported under scope 3. If you are not reporting scope 3 emissions, moving 
 - Cloud companies using renewable energy they are generating themselves
 - waste heat reuse
 - water use
+Many of the major Cloud companies provide emissions information to customers:
+- Google provides their Scope 1, 2 and 3 emissions
+- Microsoft provides their scope 1, 2 and 3 emissions
+- Amazon Web Services provides their Scope 1 and 2 emissions. Scope 3 will be available to customers in early 2024.
+
 
 ## In the news
+- https://www.computerweekly.com/news/366536493/AWS-confirms-Scope-3-GHG-emissions-data-will-be-made-freely-available-to-customers-in-early-2024
 - 
 
 ## Policy measures
