@@ -23,7 +23,13 @@ Look at how your mobile phones are used and by who. Is your organization using v
 
 Look at whether secure access to work email and Teams via personal devices is possible.
 
-When looking at reducing mobile phones, it is recommended to do an assessment of systemic inequalities, as well as assess how diverse groups of women, men, and gender diverse people may experience this policy change? For example, do you need to communicate with Indigenous and remote communities that often don't have consistent internet access? Does having a work mobile device enable cargivers to remain in the workforce by being able to work while doing caregiving duties like collecting children from school
+Are your employees using their mobile phones to hotspot? Consider if it would be possible to redirect funds from mobile phones to improved wifi within your organization's buildings. If your organization uses tablet devices, consider whether a SIM card could be added to the tablet to eliminate the need for a phone to hotspot.
+
+When looking at reducing mobile phones, it is recommended to do an assessment of systemic inequalities, as well as assess how diverse groups of women, men, and gender diverse people may experience this policy change? For example, do you need to communicate with Indigenous and remote communities that often don't have consistent internet access? Does having a work mobile device enable cargivers to remain in the workforce by being able to work while doing caregiving duties like collecting children from school.
+
+Employees who don't use or need their phone may not want to voluntarily give up their phone due to concerns that they might need it in the future. Combat this concern by ensuring that the process to get a new phone if their role changes is quick and easy.
+
+Employees
 
 ### Require ecolabels during procurement
 Ecolabels are added to products to verify that the product meets certain sustainability standards. They can be added directly by the company (first party) or achieved through certification with a third party. Ecolabels acheived through certifaction provide the best assurance. Many third party ecolabels meet the ISO standard 'ISO 14024:2018 Environmental Labels and Declarations—Type 1 Environmental Labelling'. Requiring Type 1 ecolabels is a critieria frequently used by governments around the world in ICT procurements. Some examples of requirements of type 1 ecolabels for mobile phones include:
