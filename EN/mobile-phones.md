@@ -24,11 +24,11 @@ Is your organization using video conferencing more than using phones?
 Is your organization using phones for something like security authentication that could better (and more securely) be done by a device with a smaller environmental impact (such as a USB-C key)? 
 Are there specific roles that require phones such as employees who are on-call?
 
-Look at whether secure access to work email, calendar and Teams via personal devices is possible.
-
 Are your employees using their mobile phones to hotspot? 
 Consider if it would be possible to redirect funds from mobile phones to improved wifi within your organization's buildings. 
 If your organization uses tablet devices, consider whether a SIM card could be added to the tablet to eliminate the need for a phone to hotspot.
+
+Look at whether secure access to work email, calendar and Teams via personal devices is possible to reduce the need for a mobile phone when employees are away from their primary work device.
 
 Employees who don't use or need their phone may not want to voluntarily retun their work phone due to concerns that they might need it in the future. 
 Combat this concern by ensuring that the process to get a new phone is quick and easy if an employee's role changes.
@@ -55,23 +55,29 @@ Some examples of requirements of type 1 ecolabels for mobile phones include:
 - recycled fibre used for packaging
 - sourcing of conflict minerals (3TG)
 
-### Extended lifecycle
+### Extend lifecycle
 Many mobile phone service providers operate on a two or three year cycle with phones being replaced at that interval.
 Many governments match their mobile phone lifecycle to that of the mobile phone service provider.
 However if the lifecycle of a mobile phone is extended by even one year, then the overall ghg emissions from mobile phones for an organization are significantly reduced.
-Note that extending the life of devices can result in additional effort by service desk staff.
-However cost savings from reduce phone purchases could be redirected to increase service desk resources.
+
+While extending the life of devices can result in additional effort by service desk staff, cost savings from reduce phone purchases could be redirected to increase service desk resources.
 
 Ensure any polices to standardize cell phones within your organization does not result in the replacement of phones before the end of their useful life.
 
 ### Legislate Right to repair, and Standard chargers
-The right to repair and extended lifecycle go hand in hand.Batteries don't last forever, technological improvements often mean that more RAM or processing is required.
-Around the world, many governments are implementing and considering legislation to right to repair
-Sometimes mobile phones are replaced due to security concerns that cannot be fixed with patching. However if the phone could be openeded and fixed, 
+The right to repair and extended lifecycle go hand in hand. Batteries don't last forever, and phone system and security updates often mean that more RAM or processing is required.
+
+Around the world, many governments are implementing and considering legislation to right to repair as a way to combat planned obsolesence. 
+
+Note that the environmental impacts from right to repair may take some time to be seen as a complete shift is needed towards phones that are designed to be diagnosed and repaired rather than disposed of.  
 
 ### Consider circular procurement models such as 'manufacturer take back programs' and leasing
+Leasing mobile phones can have an environmentally beneficial impact if at the end of the leasing period with your government, the mobile phone provider leases the same phone to someone else, extending the life of the phone. 
 
+Governments with their large volume buying have the opportunity to influence the market and encourage smart leasing and take-back programs. 
 
+## Data to support proposed policy measures
+The ghg emissions for the manufacture of a cell phone can be useful in demonstrating the environmental impact of your organizations phone inventory and for calculating the environmental impact from policy measures. The standard figure used for the ghg emissions from manufacturing of a single mobile phone is [80kg CO2](https://8billiontrees.com/carbon-offsets-credits/carbon-footprint-of-iphone/).
 
 ## What are Digital Nations doing?
 ### Canada
