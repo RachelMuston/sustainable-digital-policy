@@ -18,7 +18,7 @@ As mobile phones create a lot of emissions during their manufacture and create e
 Look at the usage data for your mobile phone inventory.
 What percentage of phones are unused or rarely used? 
 
-Look at how your mobile phones are used and why who. Is your organization using video conferencing more than using phones? Is your organization using phones for something like security authentication that could better (and more securely) be done by a device with a smaller environmental impact (such as a token)? 
+Look at how your mobile phones are used and by who. Is your organization using video conferencing more than using phones? Is your organization using phones for something like security authentication that could better (and more securely) be done by a device with a smaller environmental impact (such as a token)? 
 
 If yes, determine how many phones are currently unused/rarely used. This can be done by (is there an easy way to do this?).  A better step is to consider reducing phone distribution to only those user profiles who require them - e.g. Executives, field workers, etc. and/or distribute mobile phones only on an exception basis.
 
