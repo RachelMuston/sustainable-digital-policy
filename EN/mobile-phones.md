@@ -81,7 +81,7 @@ The ghg emissions for the manufacture of a cell phone can be useful in demonstra
 
 ## What are Digital Nations doing?
 ### Canada
-- Currently at least one federal department is monitoring mobile phone use and if a phone is inactive for 3 months, it is recalled (or requires a managers signature for the employee to keep the phone).
+- Currently at least one federal department is monitoring mobile phone use and if a phone is inactive for 3 months, it is recalled (or requires manager approval for the employee to keep the phone).
 - In [Budget 2023](https://www.budget.canada.ca/2023/report-rapport/chap1-en.html#a2) it was announced that the Government of Canada will work to implement a right to repair and will work with international partners and other stakeholders to explore implementing a standard charging port in Canada.
 
 ### UK
