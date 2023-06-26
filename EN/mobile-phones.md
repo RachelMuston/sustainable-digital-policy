@@ -4,7 +4,7 @@
 - lifecycles are often short due to planned obsolescence and phone contracts that provide new phones every 2 years
 - often non-repairable
 - many organizations are using software like MS Teams, Zoom or Google hangouts for conversations rather than phones
-- chargers are often not interchangeable
+- chargers are often not interchangeable and create e-waste
 
 ## In the news
 - 
