@@ -26,7 +26,7 @@ Are there specific roles that require phones such as employees who are on-call?
 
 Are your employees using their mobile phones to hotspot? 
 Consider if it would be possible to redirect funds from mobile phones to improved wifi within your organization's buildings. 
-If your organization uses tablet devices, consider whether a SIM card could be added to the tablet to eliminate the need for a phone to hotspot.
+If your organization uses tablet devices, consider whether a SIM card with a data plan could be added to the tablet to eliminate the need for a phone to hotspot.
 
 Look at whether secure access to work email, calendar and Teams via personal devices is possible to reduce the need for a mobile phone when employees are away from their primary work device.
 
