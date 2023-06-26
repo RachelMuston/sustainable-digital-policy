@@ -21,13 +21,13 @@ What percentage of phones are unused or rarely used?
 
 Look at how your mobile phones are used and by who. Is your organization using video conferencing more than using phones? Is your organization using phones for something like security authentication that could better (and more securely) be done by a device with a smaller environmental impact (such as a token)? Are there specific roles that require phones such as employees who are on-call?
 
-Look at whether secure access to work email and Teams via personal devices is possible.
+Look at whether secure access to work email, calendar and Teams via personal devices is possible.
 
 Are your employees using their mobile phones to hotspot? Consider if it would be possible to redirect funds from mobile phones to improved wifi within your organization's buildings. If your organization uses tablet devices, consider whether a SIM card could be added to the tablet to eliminate the need for a phone to hotspot.
 
 When looking at reducing mobile phones, it is recommended to do an assessment of systemic inequalities, as well as assess how diverse groups of women, men, and gender diverse people may experience this policy change? For example, do you need to communicate with Indigenous and remote communities that often don't have consistent internet access? Does having a work mobile device enable cargivers to remain in the workforce by being able to work while doing caregiving duties like collecting children from school.
 
-Employees who don't use or need their phone may not want to voluntarily give up their phone due to concerns that they might need it in the future. Combat this concern by ensuring that the process to get a new phone if their role changes is quick and easy.
+Employees who don't use or need their phone may not want to voluntarily give up their phone due to concerns that they might need it in the future. Combat this concern by ensuring that the process to get a new phone is quick and easy if an employee's role changes.
 
 Employees
 
