@@ -62,7 +62,7 @@ Many mobile phone service providers operate on a two or three year cycle with ph
 Many governments match their mobile phone lifecycle to that of the mobile phone service provider.
 However if the lifecycle of a mobile phone is extended by even one year, then the overall ghg emissions from mobile phones for an organization are significantly reduced.
 
-While extending the life of devices can result in additional effort by service desk staff, cost savings from reduce phone purchases could be redirected to increase service desk resources.
+While extending the life of devices can result in additional effort by service desk staff due to increased support calls, cost savings from reduce phone purchases could be redirected to increase service desk resources.
 
 Ensure any polices to standardize cell phones within your organization does not result in the replacement of phones before the end of their useful life.
 
