@@ -81,7 +81,7 @@ Leasing mobile phones can have an environmentally beneficial impact if at the en
 Governments with their large volume buying have the opportunity to influence the market and encourage smart leasing and take-back programs. 
 
 ## Data to support proposed policy measures
-The ghg emissions for the manufacture of a cell phone can be useful in demonstrating the environmental impact of your organizations phone inventory and for calculating the environmental impact from policy measures. The standard figure used for the ghg emissions from manufacturing of a single mobile phone is [80kg CO2](https://8billiontrees.com/carbon-offsets-credits/carbon-footprint-of-iphone/).
+The GHG emissions created during the manufacture of a mobile phone can be useful in demonstrating the environmental impact of your organization's phone inventory and for calculating the environmental impact from policy measures. The standard figure used for the GHG emissions from manufacturing of a single mobile phone is [80kg CO2](https://8billiontrees.com/carbon-offsets-credits/carbon-footprint-of-iphone/). The GHG emissions created during the lifetime use of a mobile phone vary wildly depending on the grid where the phone is used.
 
 ## What are Digital Nations doing?
 ### Canada
