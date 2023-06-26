@@ -19,12 +19,19 @@ As mobile phones create a lot of emissions during their manufacture and create e
 Look at the usage data for your organization's mobile phone inventory.
 What percentage of phones are unused or rarely used? 
 
-Look at how your mobile phones are used and by who. Is your organization using video conferencing more than using phones? Is your organization using phones for something like security authentication that could better (and more securely) be done by a device with a smaller environmental impact (such as a token)? 
+Look at how your mobile phones are used and by who. Is your organization using video conferencing more than using phones? Is your organization using phones for something like security authentication that could better (and more securely) be done by a device with a smaller environmental impact (such as a token)? Are there specific roles that require phones such as employees who are on-call?
 
-If yes, determine how many phones are currently unused/rarely used. This can be done by (is there an easy way to do this?).  A better step is to consider reducing phone distribution to only those user profiles who require them - e.g. Executives, field workers, etc. and/or distribute mobile phones only on an exception basis.
+When looking at reducing mobile phones, it is recommended to do an assessment of systemic inequalities, as well as assess how diverse groups of women, men, and gender diverse people may experience this policy change? For example, do you need to communicate with Indigenous and remote communities that often don't have consistent internet access? Does having a work mobile device enable cargivers to remain in the workforce by being able to check their email while doing caregiving duties like collecting children from school
 
 ### Require ecolabels during procurement
-Ecolabels are added to products to verify that the product meets certain sustainability standards. They can be added directly by the company (first party) or achieved through certification with a third party.  The ISO standard 'ISO 14024:2018 Environmental Labels and Declarations—Type 1 Environmental Labelling' is frequently used by governments around the world as a requirement in procurements.
+Ecolabels are added to products to verify that the product meets certain sustainability standards. They can be added directly by the company (first party) or achieved through certification with a third party. Ecolabels acheived through certifaction provide the best assurance. Many third party ecolabels meet the ISO standard 'ISO 14024:2018 Environmental Labels and Declarations—Type 1 Environmental Labelling'. Requiring Type 1 ecolabels is a critieria frequently used by governments around the world in ICT procurements. Some examples of requirements of type 1 ecolabels for mobile phones include:
+- battery removablity/replaceabilty
+- reduction/elmination of the use of substances with serious consequences (SVHC substances)
+- restriction of phthalates, bromine and chlorine
+- reduction of energy consumption of battery charging systems
+- post-consumer recycled plastic content in the phone
+- recycled fibre used for packaging
+- sourcing of conflict minerals (3TG)
 
 ### Legislate Right to repair and Standard chargers
 
