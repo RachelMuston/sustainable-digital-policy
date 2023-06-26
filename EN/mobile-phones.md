@@ -31,9 +31,10 @@ Ecolabels are added to products to verify that the product meets certain sustain
 
 
 
-## What other governments and organizations are doing?
+## What are Digital Nations doing?
 ### Canada
--budget 2023 looking at right to repair and standard charger
+- Currently at least one federal department is monitoring mobile phone use and if a phone is inactive for 3 months, it is recalled (or requires a managers signature for the employee to keep the phone).
+- In [Budget 2023](https://www.budget.canada.ca/2023/report-rapport/chap1-en.html#a2) it was announced that the Government of Canada will work to implement a right to repair and will work with international partners and other stakeholders to explore implementing a standard charging port in Canada.
 
 ### UK
 
