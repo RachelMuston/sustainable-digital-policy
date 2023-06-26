@@ -3,7 +3,7 @@ This repository was created by the Digital Nations Sustainable Digital Governmen
 
 The purpose of this repository is to share the combined knowledge of the Digital Nations on sustainable IT within the context of government operations.
 
-The information on this repository will be especially useful to policy makers within all levels of government and may also be project managers and those in other types of organizations.
+The information on this repository will be especially useful to policy makers within all levels of government and may also be to project managers and those in other types of organizations.
 
 ## How to Contribute
 Use Issues to post comments and discuss changes you'd like to make.
