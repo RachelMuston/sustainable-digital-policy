@@ -69,7 +69,9 @@ The right to repair and extended lifecycle go hand in hand. Batteries don't last
 
 Around the world, many governments are implementing and considering legislation to right to repair as a way to combat planned obsolesence. 
 
-Note that the environmental impacts from right to repair may take some time to be seen as a complete shift is needed towards phones that are designed to be diagnosed and repaired rather than disposed of.  
+Note that the environmental impacts from right to repair may take some time to be seen as a complete shift is needed towards phones that are designed to be diagnosed and repaired rather than disposed of. 
+
+Individual charging cables have less of an environmental impact than an individual mobile phone however the proliferation of different types of cables for different devices creates a large e-waste problem. To The EU has implemented Common Charging Solution legislation requiring manufacturers to standardize on USB-C.  
 
 ### Consider circular procurement models such as 'manufacturer take back programs' and leasing
 Leasing mobile phones can have an environmentally beneficial impact if at the end of the leasing period with your government, the mobile phone provider leases the same phone to someone else, extending the life of the phone. 
