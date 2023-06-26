@@ -1,10 +1,11 @@
 # Mobile phones
 ## Sustainability Considerations
-- manufacturing ghgs are high
-- lifecycles are often short due to planned obsolescence and phone contracts that provide new phones every 2 years
-- often non-repairable
-- many organizations are using software like MS Teams, Zoom or Google hangouts for conversations rather than phones
-- chargers are often not interchangeable and create e-waste
+- GHG emissions are high and may surpass the emssions from use of the phone (depending on the grid where the phone is used)
+- Mobile phones create a lot of e-waste because
+-- their lifecycles are often short due to planned obsolescence and phone contracts that provide new phones every 2 years
+-- they are often non-repairable
+-- their chargers are often not interchangeable  
+- Many organizations are using software like MS Teams, Zoom or Google hangouts for conversations rather than phones
 
 ## In the news
 - 
