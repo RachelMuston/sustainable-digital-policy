@@ -16,7 +16,7 @@
 ### Reduce Phone distribution
 As mobile phones create a lot of emissions during their manufacture and create e-waste, a recommended first step in reducing the environmental impact is to buy less. 
 
-Look at the usage data for your mobile phone inventory.
+Look at the usage data for your organization's mobile phone inventory.
 What percentage of phones are unused or rarely used? 
 
 Look at how your mobile phones are used and by who. Is your organization using video conferencing more than using phones? Is your organization using phones for something like security authentication that could better (and more securely) be done by a device with a smaller environmental impact (such as a token)? 
