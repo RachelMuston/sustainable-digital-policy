@@ -19,20 +19,34 @@ As mobile phones create a lot of emissions during their manufacture and create e
 Look at the usage data for your organization's mobile phone inventory.
 What percentage of phones are unused or rarely used? 
 
-Look at how your mobile phones are used and by who. Is your organization using video conferencing more than using phones? Is your organization using phones for something like security authentication that could better (and more securely) be done by a device with a smaller environmental impact (such as a token)? Are there specific roles that require phones such as employees who are on-call?
+Look at how your mobile phones are used and by who. 
+Is your organization using video conferencing more than using phones? 
+Is your organization using phones for something like security authentication that could better (and more securely) be done by a device with a smaller environmental impact (such as a USB-C key)? 
+Are there specific roles that require phones such as employees who are on-call?
 
 Look at whether secure access to work email, calendar and Teams via personal devices is possible.
 
-Are your employees using their mobile phones to hotspot? Consider if it would be possible to redirect funds from mobile phones to improved wifi within your organization's buildings. If your organization uses tablet devices, consider whether a SIM card could be added to the tablet to eliminate the need for a phone to hotspot.
+Are your employees using their mobile phones to hotspot? 
+Consider if it would be possible to redirect funds from mobile phones to improved wifi within your organization's buildings. 
+If your organization uses tablet devices, consider whether a SIM card could be added to the tablet to eliminate the need for a phone to hotspot.
 
-When looking at reducing mobile phones, it is recommended to do an assessment of systemic inequalities, as well as assess how diverse groups of women, men, and gender diverse people may experience this policy change? For example, do you need to communicate with Indigenous and remote communities that often don't have consistent internet access? Does having a work mobile device enable cargivers to remain in the workforce by being able to work while doing caregiving duties like collecting children from school.
+Employees who don't use or need their phone may not want to voluntarily retun their work phone due to concerns that they might need it in the future. 
+Combat this concern by ensuring that the process to get a new phone is quick and easy if an employee's role changes.
 
-Employees who don't use or need their phone may not want to voluntarily give up their phone due to concerns that they might need it in the future. Combat this concern by ensuring that the process to get a new phone is quick and easy if an employee's role changes.
+When looking at reducing mobile phones, it is recommended to do an assessment of systemic inequalities, as well as assess how diverse groups of women, men, and gender diverse people may experience this policy change. 
+For example, do you need to communicate with Indigenous and remote communities that often don't have consistent internet access? 
+Does having a work mobile device enable cargivers to remain in the workforce by being able to work while doing caregiving duties like collecting children from school.
 
-Employees
+Lastly, reducing the number of phones that are distributed to employees can be a significant change for employees. 
+Thoughtful change management is required.
 
 ### Require ecolabels during procurement
-Ecolabels are added to products to verify that the product meets certain sustainability standards. They can be added directly by the company (first party) or achieved through certification with a third party. Ecolabels acheived through certifaction provide the best assurance. Many third party ecolabels meet the ISO standard 'ISO 14024:2018 Environmental Labels and Declarations—Type 1 Environmental Labelling'. Requiring Type 1 ecolabels is a critieria frequently used by governments around the world in ICT procurements. Some examples of requirements of type 1 ecolabels for mobile phones include:
+Ecolabels are added to products to verify that the product meets certain sustainability standards.
+They can be added directly by the company (first party) or achieved through certification with a third party.
+Ecolabels achieved through certifaction provide the best assurance.
+Many third party ecolabels meet the ISO standard 'ISO 14024:2018 Environmental Labels and Declarations—Type 1 Environmental Labelling'.
+Requiring Type 1 ecolabels is a critieria frequently used by governments around the world in ICT procurements.
+Some examples of requirements of type 1 ecolabels for mobile phones include:
 - battery removablity/replaceabilty
 - reduction/elmination of the use of substances with serious consequences (SVHC substances)
 - restriction of phthalates, bromine and chlorine
@@ -41,7 +55,19 @@ Ecolabels are added to products to verify that the product meets certain sustain
 - recycled fibre used for packaging
 - sourcing of conflict minerals (3TG)
 
-### Legislate Right to repair and Standard chargers
+### Extended lifecycle
+Many mobile phone service providers operate on a two or three year cycle with phones being replaced at that interval.
+Many governments match their mobile phone lifecycle to that of the mobile phone service provider.
+However if the lifecycle of a mobile phone is extended by even one year, then the overall ghg emissions from mobile phones for an organization are significantly reduced.
+Note that extending the life of devices can result in additional effort by service desk staff.
+However cost savings from reduce phone purchases could be redirected to increase service desk resources.
+
+Ensure any polices to standardize cell phones within your organization does not result in the replacement of phones before the end of their useful life.
+
+### Legislate Right to repair, and Standard chargers
+The right to repair and extended lifecycle go hand in hand.Batteries don't last forever, technological improvements often mean that more RAM or processing is required.
+Around the world, many governments are implementing and considering legislation to right to repair
+Sometimes mobile phones are replaced due to security concerns that cannot be fixed with patching. However if the phone could be openeded and fixed, 
 
 ### Consider circular procurement models such as 'manufacturer take back programs' and leasing
 
