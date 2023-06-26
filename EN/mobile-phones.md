@@ -30,6 +30,8 @@ If your organization uses tablet devices, consider whether a SIM card could be a
 
 Look at whether secure access to work email, calendar and Teams via personal devices is possible to reduce the need for a mobile phone when employees are away from their primary work device.
 
+Consider implementing soft phone software so that phone calls can be made to those who don't have an internet connection.
+
 Employees who don't use or need their phone may not want to voluntarily retun their work phone due to concerns that they might need it in the future. 
 Combat this concern by ensuring that the process to get a new phone is quick and easy if an employee's role changes.
 
