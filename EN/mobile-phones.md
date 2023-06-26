@@ -8,6 +8,7 @@
 - Many organizations are using software like MS Teams, Zoom or Google hangouts for conversations rather than phones
 
 ## In the news
+- Worldwide: [Five billion phones to be thrown away in 2022](https://www.bbc.com/news/science-environment-63245150)
 - In Canada: [Ottawa spends millions on 944K phone lines. Nearly a third are ‘dormant’](https://globalnews.ca/news/9595669/canada-federal-spending-dormant-phone-lines/)
 
 ## Policy measures
