@@ -13,7 +13,7 @@
 
 ## Policy measures
 
-### Reduce Phone distribution
+### Buy fewer phones
 As mobile phones create a lot of emissions during their manufacture and create e-waste, a recommended first step in reducing the environmental impact is to buy less. 
 
 Look at the usage data for your organization's mobile phone inventory.
