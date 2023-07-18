@@ -1,7 +1,6 @@
 # Data
 ## Sustainability Considerations
-- 70-90% of data that organizations collect is dark data - data that will never be used or turned into insights for the organizations.
-- CIOs spend x on storage - this is growing each year
+- 70-90% of data that organizations collect is dark data - data that will never be used or turned into insights. The energy required to store this unused data and to manufacture the IT that it is stored on, is significant
 - Data storage has been cheap for many years enabling the amount of data to grow exponentially.
 - The environmental impact of an organizations data use is often invisible 
 -	Probability of data reuse = 5% after 15 days. - source this (Gerry says it)
@@ -11,7 +10,7 @@
 
 ## Policy measures
 - reduce data storage waste - only collect data that you need, get rid of data you don't need (implement data lifecycle process and timeframes for disposition, deduplication)
-- store data efficiently - data compression, [cold storage](https://en.wikipedia.org/wiki/Cold_data), backups, etc.lifecycle of data
+- store data efficiently - data compression, [cold storage](https://en.wikipedia.org/wiki/Cold_data), backups, etc.
 - know what data you have
   - Make your data open - the more of your datasets that are open the less data duplication will exist within your organization. Document the processes for how to make data open in your organization (e.g. applying an open license) 
   - make data findable so that it can be reused and not duplicated. Keeping in mind that personal data must be only used in they way that was stated in the privacy statement connected to that data collection. Where possible, ensure that privacy statements allow for data re-use
