@@ -9,9 +9,10 @@
 - add content
 
 ## Policy measures
-
 - reduce storage waste - data compression, deduplication, cold storage, backups, etc.lifecycle of data
-- make data findable so that it can be reused and not duplicated
+- make your data open - the more of your datasets that are open the less data duplication will exist within your organization. Document the processes for how to make data open in your organization (e.g. applying an open license) 
+- make data findable so that it can be reused and not duplicated. Keeping in mind that personal data must be only used in they way that was stated in the privacy statement connected to that data collection. Where possible, ensure that privacy statements allow for data re-use
+- 
 
 ## What are Digital Nations doing?
 
