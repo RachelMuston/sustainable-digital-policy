@@ -10,10 +10,11 @@
 - add content
 
 ## Policy measures
-- reduce storage waste - only collect data that you need, get rid of data you don't need (implement data lifecycle process and timeframes for disposition, deduplication)
+- reduce data storage waste - only collect data that you need, get rid of data you don't need (implement data lifecycle process and timeframes for disposition, deduplication)
 - store data efficiently - data compression, [cold storage](https://en.wikipedia.org/wiki/Cold_data), backups, etc.lifecycle of data
-- make your data open - the more of your datasets that are open the less data duplication will exist within your organization. Document the processes for how to make data open in your organization (e.g. applying an open license) 
-- make data findable so that it can be reused and not duplicated. Keeping in mind that personal data must be only used in they way that was stated in the privacy statement connected to that data collection. Where possible, ensure that privacy statements allow for data re-use
+- know what data you have
+  - Make your data open - the more of your datasets that are open the less data duplication will exist within your organization. Document the processes for how to make data open in your organization (e.g. applying an open license) 
+  - make data findable so that it can be reused and not duplicated. Keeping in mind that personal data must be only used in they way that was stated in the privacy statement connected to that data collection. Where possible, ensure that privacy statements allow for data re-use
 - ensure IT is sharing with that data users and creators details about their data use (amount of storage used, financial cost of that storage and the estimated GHG emissions from that data storage). Make data weight visible - Gerry McGovern
 - ensure your data is stored in sustainable, net-zero [data centres]. This is last on purpose - do the other things first.
 
