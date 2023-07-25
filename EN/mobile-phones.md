@@ -7,9 +7,7 @@
     - their chargers are often not interchangeable  
 - Many organizations have shifted towards using software like MS Teams, Zoom or Google hangouts for conversations and away from phones
 
-## In the news
-- Worldwide: [Five billion phones to be thrown away in 2022](https://www.bbc.com/news/science-environment-63245150)
-- In Canada: [Ottawa spends millions on 944K phone lines. Nearly a third are ‘dormant’](https://globalnews.ca/news/9595669/canada-federal-spending-dormant-phone-lines/)
+
 
 ## Policy measures/Practices
 
@@ -95,3 +93,7 @@ The [Electricity Map](https://app.electricitymaps.com/map) tool is a useful reso
 
 ### Estonia
 - leasing equipment (phones?)
+
+## Resources
+- [Five billion phones to be thrown away in 2022](https://www.bbc.com/news/science-environment-63245150)
+- [Ottawa spends millions on 944K phone lines. Nearly a third are ‘dormant’](https://globalnews.ca/news/9595669/canada-federal-spending-dormant-phone-lines/)
