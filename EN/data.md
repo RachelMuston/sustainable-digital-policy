@@ -7,7 +7,7 @@
 
 
 ## Policy measures/practices
-- reduce data storage waste - only collect data that you need, get rid of data you don't need (implement data lifecycle process and timeframes for disposition, deduplication)
+- Reduce data storage waste - only collect data that you need, get rid of data you don't need (implement data lifecycle process and timeframes for disposition, deduplication)
 - store data efficiently - data compression, [cold storage](https://en.wikipedia.org/wiki/Cold_data), backups, etc.
 - know what data you have and make it findable and open so that it can be reused and not duplicated
   - Make your data open - the more of your datasets that are open the less data duplication will exist within your organization. Document the processes for how to make data open in your organization (e.g. applying an open license) 
