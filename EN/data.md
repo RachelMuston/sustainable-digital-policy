@@ -6,7 +6,7 @@
 -	Probability of data reuse = 5% after 15 days. - source this (Gerry says it)
 
 
-## Policy measures/practices
+## Policy measures/Practices
 ### Reduce data storage waste
 - Only collect data that you need, get rid of data you don't need (implement data lifecycle process and timeframes for disposition, deduplication)
 - Store data efficiently - data compression, [cold storage](https://en.wikipedia.org/wiki/Cold_data), backups, etc.
