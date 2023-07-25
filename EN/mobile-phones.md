@@ -11,7 +11,7 @@
 - Worldwide: [Five billion phones to be thrown away in 2022](https://www.bbc.com/news/science-environment-63245150)
 - In Canada: [Ottawa spends millions on 944K phone lines. Nearly a third are ‘dormant’](https://globalnews.ca/news/9595669/canada-federal-spending-dormant-phone-lines/)
 
-## Policy measures
+## Policy measures/Practices
 
 ### Buy fewer phones
 As mobile phones create a lot of emissions during their manufacture and create e-waste, a recommended first step in reducing the environmental impact is to buy less. 
