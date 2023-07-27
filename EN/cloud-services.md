@@ -27,6 +27,9 @@ Many of the major Cloud companies provide emissions information to customers:
   
 ### Require your Cloud services providers to report annually on your emissions from their services
 
+## What Digital Nations are doing
+### Canada
+Canada commissioned a set of [Green Procurement Criteria for cloud services](https://www.ecpar.org/sites/ecpar.org/files/documents/gpp_criteria_cloud_services_def_en_2022_1.pdf) that was vetted by the buying group Buyers for Climate Action. 
 
 ## Resources
 - https://www.computerweekly.com/news/366536493/AWS-confirms-Scope-3-GHG-emissions-data-will-be-made-freely-available-to-customers-in-early-2024
