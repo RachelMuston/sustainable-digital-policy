@@ -2,6 +2,7 @@
 
 [Access the Reference Guide](../en/index.md)
 
+## What is it and who created it
 This repository was created by the Digital Nations Sustainable Digital Government Thematic Group. In 2021, the Digital Nations endorsed the [Shared Approach to Sustainable Digital Government](https://www.canada.ca/en/government/system/digital-government/digital-nations/digital-nations-shared-approach-sustainable-digital-government.html).
 
 The purpose of this guide is to share the combined knowledge of the Digital Nations on sustainable IT within the context of government operations.
