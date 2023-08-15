@@ -5,6 +5,8 @@ The purpose of this repository is to share the combined knowledge of the Digital
 
 The information on this repository will be especially useful to policy makers within all levels of government and may also be to project managers and those in other types of organizations.
 
+[Access the Reference Guide](../en/mobile-phones.md)
+
 ## How to Contribute
 Use Issues to post comments and discuss changes you'd like to make.
 
