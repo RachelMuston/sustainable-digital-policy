@@ -10,5 +10,5 @@
 
 ## What Digital Nations are doing
 
-## References
+## Resources
 - [Sustainable data:In pursuit of net zero](https://sustainabledata.economist.com/)
