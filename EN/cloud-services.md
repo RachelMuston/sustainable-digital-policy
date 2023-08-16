@@ -17,7 +17,7 @@ Many of the major Cloud companies provide emissions information to customers:
 - Amazon Web Services provides their Scope 1 and 2 emissions. Scope 3 will be available to customers in early 2024.
 
 
-## Policy measures
+## Policy measures/Practices
 
 ### Set procurement standards for Cloud services regarding sustainability
 - Some measures to consider:
