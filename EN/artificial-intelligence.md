@@ -16,7 +16,7 @@
 
 
 
-## What Digital Nations doing?
+## What Digital Nations are doing
 ### Canada
 
 ## Resources
