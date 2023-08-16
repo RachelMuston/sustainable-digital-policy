@@ -3,8 +3,7 @@
 - 70-90% of data that organizations collect and store is dark data - data that will never be used or turned into insights. The energy required to store this unused data and to manufacture the IT that it is stored on, is significant
 - Data storage has been cheap for many years has resulted in exponential growth of data storage requirements.
 - The environmental impact of an organizations data use is often invisible 
--	Probability of data reuse = 5% after 15 days. - source this (Gerry says it)
-
+-	Probability of data reuse = 5% after 15 days. - source this 
 
 ## Policy measures/Practices
 ### Reduce data storage waste
