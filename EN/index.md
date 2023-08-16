@@ -3,7 +3,7 @@
 ## Purpose
 In 2020 the Digital Nations, a collaborative forum of the world’s leading digital governments that aims to use technology to improve citizens services in Canada and globally, established the Sustainable Digital Government thematic group. This group of 8-10 countries meets monthly to share the work their countries are doing to improve the sustainability of their digital operations.
 
-The purpose of this guide is to document the learnings of this group and share them more broadly so that that others may benefit.
+The purpose of this guide is to document the learnings of this group and share them more broadly so that that others may benefit. It is intended to be a living document that contains current recommendations and examples of work being done by digital nations and other countries towards sustainable digital government.
 
 # Audience
 This guide contains policy direction more than detailed technical guidance and so the audience for this guide will mostly be policy-makers but could also be useful for those in more technical roles as well. 
