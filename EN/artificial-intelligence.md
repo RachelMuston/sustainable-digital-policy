@@ -16,7 +16,7 @@
 
 
 
-## What other governments and organizations are doing?
+## What Digital Nations doing?
 ### Canada
 
 ## Resources
