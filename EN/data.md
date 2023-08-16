@@ -19,7 +19,7 @@ When data is findable and open there is a greater chance the data will be reused
 ### Store data in sustainable, net-zero [data centres](datacentres.md)
 - This is last on purpose - do the other things first.
 
-## What are Digital Nations doing?
+## What Digital Nations are doing
 - add content here
 
 ## References
