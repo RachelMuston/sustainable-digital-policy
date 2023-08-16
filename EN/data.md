@@ -16,7 +16,7 @@ When data is findable and open there is a greater chance the data will be reused
 - Have a catalog of datasets that is easily searchable. Keeping in mind that personal data must be only used in they way that was stated in the privacy statement connected to that data collection. Where possible, ensure that privacy statements allow for data re-use
 ### Increase awareness of the weight of data in your organization
 - Ensure IT is sharing details fo their data use with users and creators (amount of storage used, financial cost of that storage and the estimated GHG emissions from that data storage). Make data weight visible - Gerry McGovern
-### Store data in sustainable, net-zero [data centres](datacentres.md). 
+### Store data in sustainable, net-zero [data centres](datacentres.md)
 - This is last on purpose - do the other things first.
 
 ## What are Digital Nations doing?
