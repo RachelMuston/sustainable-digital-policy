@@ -11,7 +11,7 @@
 * Uruguay have trained over 1000 public buyers and suppliers on sustainable procurement
 
 ## Policy
-### Ensure sustainability is included in Digital strategies
+### Ensure sustainability is included in digital strategies
 
 * The UK's [Digital and Data Roadmap](https://www.gov.uk/government/publications/roadmap-for-digital-and-data-2022-to-2025) has 6 missions. The 4th is Secure and sustainable ICT
 
