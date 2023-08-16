@@ -1,6 +1,6 @@
 # Reference guide for policy makers working in Sustainable Digital
 
-[Access the Reference Guide](en/index.md)
+[Access the Reference Guide](EN/index.md)
 
 ## What is it and who created it
 This repository was created by the Digital Nations Sustainable Digital Government Thematic Group. In 2021, the Digital Nations endorsed the [Shared Approach to Sustainable Digital Government](https://www.canada.ca/en/government/system/digital-government/digital-nations/digital-nations-shared-approach-sustainable-digital-government.html).
