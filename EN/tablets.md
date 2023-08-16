@@ -4,10 +4,7 @@
 - often non-repairable
 - chargers are often not interchangeable
 
-## In the news
-- 
-
-## Policy measures
+## Policy measures/Practices
 
 ### Require ecolabels during procurement
 Ecolabels are added to products to verify that the product meets certain sustainability standards. They can be added directly by the company (first party) or achieved through certification with a third party.  The ISO standard 'ISO 14024:2018 Environmental Labels and Declarations—Type 1 Environmental Labelling' is frequently used by governments around the world as a requirement in procurements.
@@ -18,7 +15,7 @@ Ecolabels are added to products to verify that the product meets certain sustain
 
 
 
-## What other governments and organizations are doing?
+## What Digital Nations are doing
 ### Canada
 
 ### UK
@@ -26,3 +23,4 @@ Ecolabels are added to products to verify that the product meets certain sustain
 ### Estonia
 -leasing equipment
 
+## Resources
