@@ -1,3 +1,5 @@
+This content is archived. Go to: https://github.com/Digital-Nations/sustainable-digital-policy for the most recent version.
+
 # Data
 ## Sustainability Considerations
 - 70-90% of data that organizations collect and store is dark data - data that will never be used or turned into insights. The energy required to store this unused data and to manufacture the IT that it is stored on, is significant
