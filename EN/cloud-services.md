@@ -1,3 +1,5 @@
+This content is archived. Go to: https://github.com/Digital-Nations/sustainable-digital-policy for the most recent version.
+
 # Cloud services
 ## Sustainability Considerations
 Moving to cloud can generate sustainability savings but there are caveats:
