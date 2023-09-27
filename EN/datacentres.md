@@ -1,3 +1,5 @@
+This content is archived. Go to: https://github.com/Digital-Nations/sustainable-digital-policy for the most recent version.
+
 # Data centres
 
 ## Resources:
