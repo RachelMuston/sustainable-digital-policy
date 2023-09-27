@@ -1,3 +1,5 @@
+This content is archived. Go to: https://github.com/Digital-Nations/sustainable-digital-policy for the most recent version.
+
 # Artificial intelligence (AI) models and tools
 ## Sustainability Considerations
 - significant source of greenhouse gas emissions – not only from the compute cycles but from the production and transportation costs involved in the servers that run the AI programs
