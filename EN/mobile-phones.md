@@ -1,3 +1,5 @@
+This content is archived. Go to: https://github.com/Digital-Nations/sustainable-digital-policy for the most recent version.
+
 # Mobile phones
 ## Sustainability Considerations
 - GHG emissions from manufacture are high and may surpass the emissions from use of the phone (depending on the grid where the phone is used and how many years the phone is used)
